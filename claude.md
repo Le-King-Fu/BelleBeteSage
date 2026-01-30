@@ -95,7 +95,7 @@ COLORS = {
   - Vitesse : 5/5
   - Beauté : 4/5
  
-  ### Caractéristiques
+### Caractéristiques
   - La force donne le nombre de vie du chien
   - La vitesse donne sa vitesse de course (et donc, la vitesse a laquelle les points s'additionnent)
   - La beauté définie le multiplicateur de bonus
